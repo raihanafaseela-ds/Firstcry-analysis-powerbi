@@ -40,6 +40,6 @@ This analysis helps in understanding return behavior and improving product and l
 
 ## 📊 Dashboard Preview
 
-![Dashboard 1](image 1.png)
-![Dashboard 2](image 2.png)
-![Dashboard 3](image 3.png)
+![Dashboard 1](dashboard 1.png)
+![Dashboard 2](dashboard 2.png)
+![Dashboard 3](dashboard 3.png)
