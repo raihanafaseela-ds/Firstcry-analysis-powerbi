@@ -37,3 +37,9 @@ Power BI file (.pbix) is included in this repository.
 
 ## 🚀 Conclusion
 This analysis helps in understanding return behavior and improving product and logistics strategies.
+
+## 📊 Dashboard Preview
+
+![Dashboard 1](image 1.png)
+![Dashboard 2](image 2.png)
+![Dashboard 3](image 3.png)
